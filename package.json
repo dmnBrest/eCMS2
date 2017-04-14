@@ -17,7 +17,8 @@
     "morgan": "^1.8.1",
     "nunjucks": "^3.0.0",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.1.1"
   },
   "devDependencies": {
     "@types/body-parser": "^1.16.0",
@@ -30,6 +31,7 @@
     "@types/nunjucks": "0.0.32",
     "@types/react": "^15.0.21",
     "@types/react-dom": "^0.14.23",
+    "@types/react-router-dom": "^4.0.3",
     "@types/source-map-support": "^0.2.28",
     "awesome-typescript-loader": "^3.1.2",
     "chokidar": "^1.6.1",
